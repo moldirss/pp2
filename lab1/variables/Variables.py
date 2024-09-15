@@ -1,8 +1,8 @@
 #A variable is created the moment you first assign a value to it.
 x = 5
 y = "John"
-print(type(x))
-print(type(y))
+print(x)
+print(y)
 
 #Variables do not need to be declared with any particular type, and can even change type after they have been set.
 x = 4       # x is of type int
