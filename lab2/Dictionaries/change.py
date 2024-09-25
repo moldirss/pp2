@@ -1,4 +1,4 @@
-#Change the "year" to 2018
+#You can change the value of a specific item by referring to its key name
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
