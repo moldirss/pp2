@@ -1,4 +1,4 @@
-#Get the value of the "model" key
+#You can access the items of a dictionary by referring to its key name
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
